@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FIXPage/static/css/main.c9754dc1.chunk.css",
+    "main.css": "/FIXPage/static/css/main.d707f128.chunk.css",
     "main.js": "/FIXPage/static/js/main.220660bc.chunk.js",
     "main.js.map": "/FIXPage/static/js/main.220660bc.chunk.js.map",
     "runtime-main.js": "/FIXPage/static/js/runtime-main.e74f38f6.js",
@@ -8,15 +8,15 @@
     "static/js/2.bde3b324.chunk.js": "/FIXPage/static/js/2.bde3b324.chunk.js",
     "static/js/2.bde3b324.chunk.js.map": "/FIXPage/static/js/2.bde3b324.chunk.js.map",
     "index.html": "/FIXPage/index.html",
-    "precache-manifest.578d4de44a57ef321aee792c5d2ddbab.js": "/FIXPage/precache-manifest.578d4de44a57ef321aee792c5d2ddbab.js",
+    "precache-manifest.27d6b24dae03a60027ed98a6d7544e46.js": "/FIXPage/precache-manifest.27d6b24dae03a60027ed98a6d7544e46.js",
     "service-worker.js": "/FIXPage/service-worker.js",
-    "static/css/main.c9754dc1.chunk.css.map": "/FIXPage/static/css/main.c9754dc1.chunk.css.map",
+    "static/css/main.d707f128.chunk.css.map": "/FIXPage/static/css/main.d707f128.chunk.css.map",
     "static/js/2.bde3b324.chunk.js.LICENSE.txt": "/FIXPage/static/js/2.bde3b324.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e74f38f6.js",
     "static/js/2.bde3b324.chunk.js",
-    "static/css/main.c9754dc1.chunk.css",
+    "static/css/main.d707f128.chunk.css",
     "static/js/main.220660bc.chunk.js"
   ]
 }
