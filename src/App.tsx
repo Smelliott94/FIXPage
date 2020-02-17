@@ -165,9 +165,9 @@ function App() {
         rows={5}
       />
     <SummaryTable data={parsedFix}/>
-    </Container>
     <Button onClick={() => {console.log(parsedFix)}}>LOG FIX</Button>
     <Button onClick={() => {localStorage.clear()}}>Clear Local Storage</Button>
+    </Container>
     </ThemeProvider>
   );
 }
